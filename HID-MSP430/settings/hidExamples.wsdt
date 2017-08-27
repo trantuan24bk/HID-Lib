@@ -35,7 +35,7 @@
       
       
       
-    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\H3_Example\main.c</Filename><XPos>0</XPos><YPos>87</YPos><SelStart>3467</SelStart><SelEnd>3467</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\H3_Example\main.h</Filename><XPos>0</XPos><YPos>71</YPos><SelStart>2527</SelStart><SelEnd>2527</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\H3_Example\USB_config\descriptors.h</Filename><XPos>0</XPos><YPos>67</YPos><SelStart>4944</SelStart><SelEnd>4944</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\H3_Example\main.c</Filename><XPos>0</XPos><YPos>87</YPos><SelStart>2984</SelStart><SelEnd>2984</SelEnd></Tab><ActiveTab>0</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\H3_Example\main.h</Filename><XPos>0</XPos><YPos>71</YPos><SelStart>2527</SelStart><SelEnd>2527</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\H3_Example\USB_config\descriptors.h</Filename><XPos>0</XPos><YPos>67</YPos><SelStart>4944</SelStart><SelEnd>4944</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
     <Positions>
       
       

@@ -10,10 +10,10 @@
 
 
 #include <windows.h>
-#include <string.h>
-#include <stdio.h>
-#include <fcntl.h>
-#include <conio.h>
+// #include <string.h>
+// #include <stdio.h>
+// #include <fcntl.h>
+// #include <conio.h>
 
 #ifdef __cplusplus
 extern "C" {
